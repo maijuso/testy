@@ -2,3 +2,5 @@ hello world
 
 
 my stuff with conflicts!!
+
+fixing the bug!!
